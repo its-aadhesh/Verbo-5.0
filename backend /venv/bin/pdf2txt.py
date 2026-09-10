@@ -1,4 +1,4 @@
-#!/Users/nameadd/Verbo 4.0/backend /venv/bin/python3.12
+#!/Users/nameadd/My_Projects /Verbo 5.0/backend /venv/bin/python3.14
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags.
 """

@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/nameadd/Verbo 4.0/backend /venv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/nameadd/My_Projects /Verbo 5.0/backend /venv/bin/python3.14" "$0" "$@"
 ' '''
 import sys
 from httpx import main
