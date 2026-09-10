@@ -1,0 +1,29 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Frontend dependencies and generated output
+**/node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Python virtual environments, caches, and test output
+**/venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded or generated local files
+uploads/
+*.log
